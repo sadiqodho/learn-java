@@ -1,4 +1,4 @@
-# Java Learning
+# Learn Java
 Welcome to the Java Learning project, an extensive and hands-on journey to master Java programming. In this project, you will find new features of Java version from version 8 to the latest version. Packages are created based on java versions.
 
 
